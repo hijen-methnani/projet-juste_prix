@@ -68,4 +68,4 @@ Le bot ajuste automatiquement les bornes minimale et maximale après chaque tent
 
 ## Auteur
 **Hijèn Methnani**  
-Projet académique – Bachelor Informatique, ECE Lyon (2025)
+Projet académique 
